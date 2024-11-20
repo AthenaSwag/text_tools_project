@@ -1,0 +1,5 @@
+Potential uses of commands in the project
+- tr and sed: can be used to clean the files (get rid of extraneous punctuation, change to lowercase)
+- wc and grep: can be used to identify euphemistic phrases with specific properties
+- cut: get the column of the csv file with the text
+- for loops: read through each line
